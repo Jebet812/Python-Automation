@@ -2,7 +2,7 @@
  
 Python Projects to automate tasks
 
-***Project 1:*** Hacker News Headlines Emailer
+***Project 1:*** **Hacker News Headlines Emailer**
 
 This project I learnt how to:
 * How to scrape a website.
@@ -11,8 +11,10 @@ This project I learnt how to:
 * How to automatically send an email from original email
 
 Python Libraries used are: 
-* requests
-* BeautifulSoup
-
+* requests - used for HTTP requests
+* BeautifulSoup - used for web scrapping
+* smtplib - used for email authentication
+* email.mime - used for creating the email body
+* datetime - used for accesing and manipulating date and time
 
 
