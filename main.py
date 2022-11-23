@@ -38,4 +38,5 @@ def extract_news(url):
     content += ('<br><br>>End of Message')  #Add two lines the end of message line
     
     
-#sending an email
+#sending the email
+
