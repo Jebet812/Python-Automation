@@ -4,9 +4,9 @@ Python Projects to automate tasks
 
 ***Project 1:*** **Hacker News Headlines Emailer**
 
-This project I learnt how to:
+This project I learnt:
 * How to scrape a website.
-* How to extract only the components needed.
+* How to extract only the components needed in a website.
 * How to build an email.
 * How to automatically send an email from original email
 
