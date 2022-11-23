@@ -1,9 +1,6 @@
-import requests
-
-def make_request():
-    res = requests.get('https://reqres.in/api/users')
-
-    print(res.json())
+# First install external packages
+#   - bs4
+#   -requests
 
 
-make_request()
+  
