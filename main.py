@@ -15,6 +15,16 @@ from email.mime.text import MIMEText
 # system date and time manipulation
 import datetime
 
+now = datetime.datetime.now() #show appropriate date when email was sent
+
+# email content placeholder
+
+content = ''
+
+def extract_news(url):
+    print('Extracting Hacker News Stories...')
+    cnt +=('<b>HN Top Stories:</b>\n'+'<br>'+'-'*50+'<br>')
+    
 
  
   
