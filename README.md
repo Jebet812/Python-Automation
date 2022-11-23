@@ -2,7 +2,7 @@
  
 Python Projects to automate tasks
 
-***Project 1:*** **Hacker News Headlines Emailer**
+## ***Project 1:*** **Hacker News Headlines Emailer**
 
 This project I learnt:
 * How to scrape a website.
