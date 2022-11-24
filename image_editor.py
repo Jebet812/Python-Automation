@@ -1,0 +1,3 @@
+#install Pillow
+
+import PIL
